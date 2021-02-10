@@ -189,7 +189,7 @@ section .title::after {
 /* about section styling */
 
 .about .title::after {
-    content: " Who I am ";
+    content: " ";
 }
 
 .about .about-content .left {
